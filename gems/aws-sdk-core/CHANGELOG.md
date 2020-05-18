@@ -1,6 +1,8 @@
 Unreleased Changes
 ------------------
 
+* Issue - Validate `:region` using regex for <continent>-<direction>-<number>.
+
 3.96.1 (2020-05-18)
 ------------------
 
